@@ -1,0 +1,9 @@
+[package]
+name = "malkin"
+version = "0.1.0"
+authors = ["Ryan Shappell <hoovcat99@gmail.com>", "Aaron Shappell <aaronshappell@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
